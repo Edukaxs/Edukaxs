@@ -48,8 +48,6 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edukaxs&theme=dark&bg_color=0D0D0D&border_color=2a2a2a&title_color=FFFFFF&text_color=AAAAAA&layout=compact"
 />
 
-<br>
-
 <ul>
   <li>☕ Java (main language)</li>
   <li>🟣 Kotlin</li>
