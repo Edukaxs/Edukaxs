@@ -19,7 +19,7 @@
 <h2 align="center">Stats 📊</h2>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Edukaxs&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0D0D0D&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Edukaxs&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0D0D0D&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF&show_icons=true&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Edukaxs&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0D0D0D&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF&show_icons=true&hide_border=true&count_private=true&color_icons=FFFFFF"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edukaxs&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0D0D0D&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
