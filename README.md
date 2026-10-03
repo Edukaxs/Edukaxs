@@ -41,32 +41,23 @@
 ---
 
 ## 🛠️ Tech Stack
-<table>
-  <tr>
-    <td valign="top">
+  <ul>
+    <li>☕ Java (main language)</li>
+    <li>🟣 Kotlin</li>
+    <li>🐘 PHP (learning)</li>
+    <li>🐍 Python (learning)</li>
+    <li>🗄️ Databases (SQL)</li>
+    <li>🌐 HTML, CSS, JavaScript (basic)</li>
+    <li>🔧 Git & GitHub</li>
+  </ul>
 
-      <ul>
-        <li>☕ Java (main language)</li>
-        <li>🟣 Kotlin</li>
-        <li>🐘 PHP (learning)</li>
-        <li>🐍 Python (learning)</li>
-        <li>🗄️ Databases (SQL)</li>
-        <li>🌐 HTML, CSS, JavaScript (basic)</li>
-        <li>🔧 Git & GitHub</li>
-      </ul>
+</td>
 
-    </td>
+<td valign="top" align="center" width="55%">
 
-    <td valign="top" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edukaxs&theme=dark&bg_color=0D0D0D&border_color=2a2a2a&title_color=FFFFFF&text_color=AAAAAA&layout=compact" width="350">
 
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edukaxs&theme=dark&bg_color=0D0D0D&border_color=2a2a2a&title_color=FFFFFF&text_color=AAAAAA&layout=compact"
-        width="350"
-      />
-
-    </td>
-  </tr>
-</table>
+</td>
 
 <div align="center">
 <a href="https://www.jetbrains.com/pt-br/idea/">
