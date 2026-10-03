@@ -42,9 +42,9 @@
 
 ## 🛠️ Tech Stack
 
-<table style="border: none"">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
-    <td width="50%" align="left" valign="top" style="border: none; padding: 0;">
+    <td valign="top" align="left" width="50%" style="padding: 0; border: none;">
       <ul>
         <li>☕ Java (main language)</li>
         <li>🟣 Kotlin</li>
@@ -55,8 +55,8 @@
         <li>🔧 Git & GitHub</li>
       </ul>
     </td>
-    <td width="50%" align="center" valign="middle" style="border: none; padding: 0;">
-      <img 
+    <td valign="middle" align="center" width="50%" style="padding: 0; border: none;">
+      <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edukaxs&theme=dark&bg_color=0D0D0D&border_color=2a2a2a&title_color=FFFFFF&text_color=AAAAAA&layout=compact"
       />
     </td>
