@@ -42,25 +42,30 @@
 
 ## 🛠️ Tech Stack
 
-<img 
-  align="right"
-  width="310"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edukaxs&theme=dark&bg_color=0D0D0D&border_color=2a2a2a&title_color=FFFFFF&text_color=AAAAAA&layout=compact"
-/>
+## 🛠️ Tech Stack
 
-<ul>
-  <li>☕ Java (main language)</li>
-  <li>🟣 Kotlin</li>
-  <li>🐘 PHP (learning)</li>
-  <li>🐍 Python (learning)</li>
-  <li>🗄️ Databases (SQL)</li>
-  <li>🌐 HTML, CSS, JavaScript (basic)</li>
-  <li>🔧 Git & GitHub</li>
-</ul>
+<table>
+  <tr>
+    <td width="50%" align="left" valign="top" style="border: none; padding: 0;">
+      <ul>
+        <li>☕ Java (main language)</li>
+        <li>🟣 Kotlin</li>
+        <li>🐘 PHP (learning)</li>
+        <li>🐍 Python (learning)</li>
+        <li>🗄️ Databases (SQL)</li>
+        <li>🌐 HTML, CSS, JavaScript (basic)</li>
+        <li>🔧 Git & GitHub</li>
+      </ul>
+    </td>
+    <td width="50%" align="center" valign="middle" style="border: none; padding: 0;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edukaxs&theme=dark&bg_color=0D0D0D&border_color=2a2a2a&title_color=FFFFFF&text_color=AAAAAA&layout=compact"
+      />
+    </td>
+  </tr>
+</table>
 
 <br>
-
-<br clear="both">
 
 <div align="center">
 <a href="https://www.jetbrains.com/pt-br/idea/">
