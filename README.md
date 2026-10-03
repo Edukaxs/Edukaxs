@@ -17,11 +17,7 @@
 
 
 <h2 align="center">Stats 📊</h2>
-<p align="center">
-  <img height="150" src="https://github-stats-extended.vercel.app/api?username=Edukaxs&theme=midnight-purple&hide_border=true" alt="GitHub Stats Card"/>
-  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs?username=Edukaxs&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true"/>
-</div>
-</p>
+  <img src="https://streak-stats.demolab.com?user=Edukaxs&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0D0D0D&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" />
 
 ---
 
