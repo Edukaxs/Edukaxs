@@ -41,7 +41,6 @@
 ---
 
 ## 🛠️ Tech Stack
-
 <table>
   <tr>
     <td valign="top">
@@ -57,11 +56,12 @@
       </ul>
 
     </td>
+
     <td valign="top" align="center">
 
-      <img 
+      <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edukaxs&theme=dark&bg_color=0D0D0D&border_color=2a2a2a&title_color=FFFFFF&text_color=AAAAAA&layout=compact"
-        width="400"
+        width="350"
       />
 
     </td>
