@@ -17,10 +17,26 @@
 
 
 <h2 align="center">Stats 📊</h2>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Edukaxs&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0D0D0D&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Edukaxs&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0D0D0D&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF&show_icons=true&hide_border=true&count_private=true&size=2"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edukaxs&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0D0D0D&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF&show_icons=true&hide_border=true&layout=compact"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=Edukaxs&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0D0D0D&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF"
+    width="400"
+  />
+</div>
+
+<br>
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Edukaxs&theme=dark&bg_color=0D0D0D&border_color=2a2a2a&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&show_icons=true&count_private=true"
+    width="400"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edukaxs&theme=dark&bg_color=0D0D0D&border_color=2a2a2a&title_color=FFFFFF&text_color=AAAAAA&layout=compact"
+    width="400"
+  />
 </div>
 
 ---
