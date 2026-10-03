@@ -23,9 +23,6 @@
     src="https://streak-stats.demolab.com?user=Edukaxs&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0D0D0D&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF"
     width="400"
   />
-</div>
-
-<div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Edukaxs&theme=dark&bg_color=0D0D0D&border_color=2a2a2a&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&show_icons=true&count_private=true"
     width="400"
