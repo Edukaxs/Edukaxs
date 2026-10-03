@@ -42,8 +42,6 @@
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 <img 
   align="right"
   width="310"
