@@ -42,9 +42,7 @@
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
-<table>
+<table style="border: none; padding: 0;>
   <tr>
     <td width="50%" align="left" valign="top" style="border: none; padding: 0;">
       <ul>
