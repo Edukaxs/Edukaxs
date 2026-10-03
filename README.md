@@ -25,7 +25,7 @@
   />
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Edukaxs&theme=dark&bg_color=0D0D0D&border_color=2a2a2a&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&show_icons=true&count_private=true"
-    width="400"
+    width="300"
   />
 </div>
 
