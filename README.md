@@ -42,26 +42,24 @@
 
 ## 🛠️ Tech Stack
 
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-  <tr>
-    <td valign="top" align="left" width="50%" style="padding: 0; border: none;">
-      <ul>
-        <li>☕ Java (main language)</li>
-        <li>🟣 Kotlin</li>
-        <li>🐘 PHP (learning)</li>
-        <li>🐍 Python (learning)</li>
-        <li>🗄️ Databases (SQL)</li>
-        <li>🌐 HTML, CSS, JavaScript (basic)</li>
-        <li>🔧 Git & GitHub</li>
-      </ul>
-    </td>
-    <td valign="middle" align="center" width="50%" style="padding: 0; border: none;">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edukaxs&theme=dark&bg_color=0D0D0D&border_color=2a2a2a&title_color=FFFFFF&text_color=AAAAAA&layout=compact"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <div style="display: inline-block; vertical-align: middle; text-align: left; margin-right: 30px;">
+    <ul>
+      <li>☕ Java (main language)</li>
+      <li>🟣 Kotlin</li>
+      <li>🐘 PHP (learning)</li>
+      <li>🐍 Python (learning)</li>
+      <li>🗄️ Databases (SQL)</li>
+      <li>🌐 HTML, CSS, JavaScript (basic)</li>
+      <li>🔧 Git & GitHub</li>
+    </ul>
+  </div>
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edukaxs&theme=dark&bg_color=0D0D0D&border_color=2a2a2a&title_color=FFFFFF&text_color=AAAAAA&layout=compact"
+    align="middle"
+  />
+</div>
 
 <br>
 
